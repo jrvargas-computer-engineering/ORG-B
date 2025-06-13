@@ -26,7 +26,16 @@ MyWrite.count = 2
 
 ### Parâmetros testados
 #### L1_Cache.asso
+```
 
+```
 #### L1_Cache.size
+```
+16
+32 - 
+64
+128
+```
+
 
 #### L1_Cache.data_latency
