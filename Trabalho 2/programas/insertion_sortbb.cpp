@@ -2,7 +2,7 @@
 #include<tuple>
 #include<bits/stdc++.h>
 
-#define MAX 100
+#define MAX 50000
 
 using namespace std;
 
